@@ -1,4 +1,4 @@
-# koma-msb-client <br>
+# koma-xmpp-client <br>
 <br>
 This is the sample script for XMPP Raw protocol access to KOMA Micro Service Bus <br>
 This script also compatible to access Openfire from Ignite Realtime with SASL Authentication <br>
