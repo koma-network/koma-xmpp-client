@@ -9,7 +9,7 @@
   "author": "Yan Yan Purdiansah",
   "license": "MIT",
   "dependencies": {
-    "fast-xml-parser": "^3.17.4",
+    "fast-xml-parser": "^4.2.4",
     "zeromq": "^6.0.0-beta.6"
   }
 }
